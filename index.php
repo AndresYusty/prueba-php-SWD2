@@ -1,6 +1,4 @@
 <?php
-require_once 'zonificar.php';
-
 $ruta = require 'zonificar.php';
 ?>
 <!DOCTYPE html>
@@ -107,7 +105,7 @@ $ruta = require 'zonificar.php';
 </head>
 <body>
     <div class="container">
-        <h1>Ruta de Entregas - Orden Optimizado</h1>
+        <h1>Ruta de Entregas</h1>
         
         <div class="map-container">
             <div id="map"></div>
